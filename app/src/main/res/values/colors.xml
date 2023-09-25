@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary2">#FF5733</color> <!-- Laranja -->
+    <color name="primary3">#FFFFFF</color> <!-- Branco -->
+    <color name="primary1">#000000</color> <!-- Preto -->
+</resources>
